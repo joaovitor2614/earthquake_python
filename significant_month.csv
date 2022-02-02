@@ -1,0 +1,17 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-02-01T17:26:16.480Z,33.949,-118.2048333,15.79,3.26,ml,123,20,0.04203,0.25,ci,ci39929895,2022-02-02T22:08:03.382Z,"1km SE of South Gate, CA",earthquake,0.15,0.25,0.154,225,reviewed,ci,ci
+2022-01-31T17:10:21.129Z,36.851,-97.7935,7.85,4.5,mww,96,91,0,0.23,ok,ok2022cedc,2022-02-02T21:53:14.184Z,"7 km NW of Medford, Oklahoma",earthquake,,0.5,,35,reviewed,ok,us
+2022-01-30T17:46:26.970Z,33.3355,-116.9146667,13.31,4,mw,146,15,0.04714,0.22,ci,ci39928087,2022-02-02T19:07:17.814Z,"5km WSW of Palomar Observatory, CA",earthquake,0.11,0.31,,5,reviewed,ci,ci
+2022-01-29T02:46:39.811Z,-29.5308,-176.7488,10,6.5,mww,,57,1.056,1.31,us,us7000gg3w,2022-01-30T02:53:00.581Z,"Kermadec Islands region",earthquake,6.3,1.8,0.048,41,reviewed,us,us
+2022-01-25T10:51:29.050Z,20.928,-156.082666666667,41.14,4.67,ml,60,206,,0.34,hv,hv72889347,2022-02-01T01:28:52.361Z,"10 km NNE of Wailua, Hawaii",earthquake,1.36,0.65,0.14667725518305,45,reviewed,hv,hv
+2022-01-24T14:06:43.485Z,18.494,-73.2999,10,5.1,mww,,56,1.889,1.04,us,us7000gekf,2022-01-31T21:40:40.535Z,"4 km E of Anse-à-Veau, Haiti",earthquake,6.3,1.8,0.043,51,reviewed,us,us
+2022-01-24T13:16:23.439Z,18.4544,-73.323,10,5.3,mww,,30,1.914,0.43,us,us7000gek3,2022-01-31T20:59:39.906Z,"5 km SSE of Anse-à-Veau, Haiti",earthquake,5.9,1.9,0.041,58,reviewed,us,us
+2022-01-23T02:21:19.787Z,38.4843,97.3967,10,5.6,mww,,32,11.416,0.93,us,us7000gebb,2022-01-28T00:52:28.096Z,"152 km S of Laojunmiao, China",earthquake,7.9,1.8,0.059,28,reviewed,us,us
+2022-01-21T16:08:37.265Z,32.7437,132.0432,39,6.3,mww,,24,1.825,1.12,us,us7000gdwz,2022-01-25T02:56:46.207Z,"26 km SSE of Saiki, Japan",earthquake,3.9,1.9,0.073,18,reviewed,us,us
+2022-01-21T05:18:26.323Z,60.3208,-152.372,117.3,5.1,mww,,,,0.57,ak,ak022ytdd55,2022-02-02T05:28:31.142Z,"49 km NW of Ninilchik, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2022-01-14T09:05:42.540Z,-6.9291,105.2513,37.19,6.6,mww,,60,2.438,1.22,us,us7000gbu4,2022-01-22T12:40:03.591Z,"88 km SW of Labuan, Indonesia",earthquake,6,5.1,0.063,24,reviewed,us,us
+2022-01-13T03:19:08.700Z,33.4688333,-116.443,13.97,3.86,mw,124,20,0.05631,0.21,ci,ci39910255,2022-01-30T18:09:10.688Z,"23km ESE of Anza, CA",earthquake,0.11,0.23,,6,reviewed,ci,ci
+2022-01-11T12:39:31.515Z,52.6047,-168.155,11.23,6.6,mww,,40,0.82,0.7,us,us7000gawk,2022-02-02T08:10:06.732Z,"60 km SE of Nikolski, Alaska",earthquake,2.5,3.3,0.058,29,reviewed,us,us
+2022-01-11T11:35:46.156Z,52.6563,-167.9169,22.32,6.8,mww,,52,0.755,0.84,us,us7000gavu,2022-02-02T11:45:51.828Z,"71 km ESE of Nikolski, Alaska",earthquake,5.4,3.9,0.051,37,reviewed,us,us
+2022-01-11T01:07:47.981Z,35.1456,31.9095,19.6,6.6,mww,,21,1.18,1.39,us,us7000gaqu,2022-02-02T21:15:41.058Z,"48 km WNW of Pólis, Cyprus",earthquake,4.9,3.7,0.045,47,reviewed,us,us
+2022-01-07T17:45:30.774Z,37.8017,101.2447,13,6.6,mww,,10,2.693,0.72,us,us7000g9zq,2022-01-24T05:40:08.931Z,"113 km SW of Jinchang, China",earthquake,6.4,1.7,0.08,15,reviewed,us,us
