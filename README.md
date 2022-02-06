@@ -42,7 +42,7 @@
 
 This project is about earth quake data management and display, its data comes from the 'significant_month' excel file. Then, the data is altered for display and filters purposes
 
-Key features of **Amazing GitHub Template**:
+Key features of **earhquake_python**:
 
 - Streamlit to create fast web app with Python
 - Pandas for data handling
