@@ -24,3 +24,31 @@
 [![made by joaovitor2614](https://img.shields.io/badge/made%20by-joaovitor2614-ff1414.svg?style=flat-square)](https://github.com/joaovitor2614)
 
 </div>
+
+<details open="open">
+<summary>Table of Contents</summary>
+
+- [About](#about)
+
+</details>
+
+---
+
+## About
+
+<table>
+<tr>
+<td>
+
+This project is about earth quake data management and display, its data comes from the 'significant_month' excel file. Then, the data is altered for display and filters purposes
+
+Key features of **Amazing GitHub Template**:
+
+- Streamlit to create fast web app with Python
+- Pandas for data handling
+- base64 for file encoding
+
+
+</td>
+</tr>
+</table>
