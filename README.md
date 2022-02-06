@@ -15,3 +15,12 @@
   <a href="https://github.com/joaovitor2614/earthquake_python/discussions">Ask a Question</a>
 </div>
 
+<div align="center">
+<br />
+
+[![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE)
+
+[![PRs mandai ai parça](https://img.shields.io/badge/PRs-manda%20ai%20par%C3%A7a-ff69b4.svg?style=flat-square)](https://github.com/joaovitor2614/joaovitor2614/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+[![made by joaovitor2614](https://img.shields.io/badge/made%20by-joaovitor2614-ff1414.svg?style=flat-square)](https://github.com/joaovitor2614)
+
+</div>
