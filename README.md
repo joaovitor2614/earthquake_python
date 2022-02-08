@@ -29,6 +29,9 @@
 <summary>Table of Contents</summary>
 
 - [About](#about)
+  - [Built With](#built-with)
+- [Contributing](#contributing)
+- [Support](#support)
 
 </details>
 
@@ -52,3 +55,25 @@ Key features of **earhquake_python**:
 </td>
 </tr>
 </table>
+
+### Built With
+
+- [streamlit](https://streamlit.io/)
+- [pandas](https://pandas.pydata.org/)
+
+## Contributing
+
+First off, thanks for taking the time to contribute! Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
+
+Please try to create bug reports that are:
+
+- _Reproducible._ Include steps to reproduce the problem.
+- _Specific._ Include as much detail as possible: which version, what environment, etc.
+- _Unique._ Do not duplicate existing opened issues.
+- _Scoped to a Single Bug._ One bug per report.
+
+## Support
+
+Reach out to the maintainer at one of the following places:
+
+- The email which is located [in GitHub profile](https://github.com/dec0dOS)
