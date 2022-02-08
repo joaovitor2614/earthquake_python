@@ -76,4 +76,4 @@ Please try to create bug reports that are:
 
 Reach out to the maintainer at one of the following places:
 
-- The email which is located [in GitHub profile](https://github.com/dec0dOS)
+- The email which is located [in GitHub profile](https://github.com/joaovitor2614)
